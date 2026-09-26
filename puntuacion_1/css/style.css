@@ -169,3 +169,7 @@ a{
     text-decoration: none;
     color: #b877dd;
 }
+
+#icon-art *{
+    color: #1e022e;
+}
